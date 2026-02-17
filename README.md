@@ -5,7 +5,7 @@
   Hola, soy Carolina :3
   <br>
 </h1>
-<img align="right" width="400" alt="descargar" src="https://i.ibb.co/7d5JKLRv/descargar.jpg"/>
+<img align="right" width="400" alt="descargar-1" src="https://i.ibb.co/WJKdJ4t/descargar-1.jpg"/>
 
 <h2> / cositas sobre mi /</h2>
   

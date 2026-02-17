@@ -3,7 +3,7 @@
   <a href='https://www.youtube.com/watch?v=4FxCPS8jKGQ'><img src="https://i.ibb.co/ksjBjDk9/Lego-skeleton.jpg" alt='Lego-skeleton' width='200'></a>
   <br>
   <h2> Hola, soy Carolina :3 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-  <img align="right" width="300" alt="descargar-1" src="https://i.ibb.co/WJKdJ4t/descargar-1.jpg"/>
+  <img align="right" width="400" alt="descargar-1" src="https://i.ibb.co/WJKdJ4t/descargar-1.jpg"/>
   <br>
 </h1>
 
@@ -27,6 +27,11 @@
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
+<h2> / contacto / </h2>
+<img
+  src="https://dcbadge.limes.pink/api/shield/713416255545016400?theme=blurple" alt="Discord"/> <a target="_blank" href="https://www.instagram.com/motosierra__/"><img src="https://img.shields.io/badge/-motosierra__-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/motosierra__/" alt="Instagram Badge">
+</a>
 
   </br></br>
   

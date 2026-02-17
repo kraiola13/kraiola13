@@ -2,7 +2,7 @@
   <br>
   <a href='https://www.youtube.com/watch?v=4FxCPS8jKGQ'><img src="https://i.ibb.co/ksjBjDk9/Lego-skeleton.jpg" alt='Lego-skeleton' width='200'></a>
   <br>
-  <h2> Hola, soy Carolina :3 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  <h2 align='center'> Hola, soy Carolina :3 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
   <img align="right" width="400" alt="descargar-1" src="https://i.ibb.co/WJKdJ4t/descargar-1.jpg"/>
   <br>
 </h1>

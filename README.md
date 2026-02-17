@@ -1,13 +1,13 @@
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=4FxCPS8jKGQ'><img src='https://pin.it/33i6TwQ8t' alt='Kraiola' width='200'></a>
+  <a href='https://www.youtube.com/watch?v=4FxCPS8jKGQ'><img src="https://i.ibb.co/ksjBjDk9/Lego-skeleton.jpg" alt='Lego-skeleton' width='200'></a>
   <br>
   Hola, soy Carolina :3
   <br>
 </h1>
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="descargar" src="https://i.ibb.co/7d5JKLRv/descargar.jpg"/>
 
-<h2> / about me /</h2>
+<h2> / cositas sobre mi /</h2>
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
@@ -39,21 +39,14 @@
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   </div>
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
 -----
 Credits: [WangNingkai](https://github.com/WangNingkai)
-
-Last Edited on: 31/08/2020
+Credit: [zillastar](https://github.com/zillastar)

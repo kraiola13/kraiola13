@@ -1,8 +1,8 @@
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Sogi' width='200'></a>
+  <a href='https://www.youtube.com/watch?v=4FxCPS8jKGQ'><img src='https://pin.it/33i6TwQ8t' alt='Kraiola' width='200'></a>
   <br>
-  Yo
+  Hola, soy Carolina :3
   <br>
 </h1>
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>

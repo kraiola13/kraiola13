@@ -13,7 +13,7 @@
   - 💀 Trabajando en **proyectos personales**
   - 👾 Estudiante de **Ingeniería de Sistemas y Computacion** en la UNAL 
   
-<h2> / hablildades / </h2>
+<h2> / habilidades / </h2>
   
 - <h4> lenguajes de programación </h4>
   <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt = "java" />

@@ -29,8 +29,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 <h2> / contacto / </h2>
-<img
-  src="https://dcbadge.limes.pink/api/shield/713416255545016400?theme=blurple" alt="Discord"/> <a target="_blank" href="https://www.instagram.com/motosierra__/"><img src="https://img.shields.io/badge/-motosierra__-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/motosierra__/" alt="Instagram Badge">
+<a target="_blank" href="https://discordapp.com/users/713416255545016400"><img src="https://dcbadge.limes.pink/api/shield/713416255545016400?theme=blurple&link=https://discordapp.com/users/713416255545016400" alt="Discord"/> <a target="_blank" href="https://www.instagram.com/motosierra__/"><img src="https://img.shields.io/badge/-motosierra__-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/motosierra__/" alt="Instagram Badge">
 </a>
 
   </br></br>
